@@ -1,0 +1,12 @@
+[{
+  "type": "input",
+  "name": "appName",
+  "message": "Your project name:",
+  "default": "default"
+}, {
+  "type": "confirm",
+  "name": "foundation",
+  "message": "Would you like to enable foundation?",
+  "default": true,
+  "store": true
+}]

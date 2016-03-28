@@ -1,0 +1,10 @@
+{
+  "staticFiles": [
+
+  ],
+  "templates": [
+    "src/index.html",
+    "package.json",
+    "bower.json"
+  ]
+}
